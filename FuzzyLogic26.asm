@@ -6,7 +6,7 @@
 ; Based on https://pouet.net/prod.php?which=60648
 ;
 ; Hey, this is my first C64 prod.
-; I had expected it to be different but I think
+; I had expected it to be different, but I think
 ; TV noise is always a good starting point when
 ; discovering a new platform.
 ;
